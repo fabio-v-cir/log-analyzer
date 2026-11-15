@@ -1,0 +1,4 @@
+target/
+security-report.txt
+.idea/
+*.iml
